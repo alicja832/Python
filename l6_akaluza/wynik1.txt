@@ -1,0 +1,5 @@
+3.10.4 (main, Apr  2 2022, 09:04:19) [GCC 11.2.0]
+forStatement         => 363866590
+listComprehension    => 203767821
+mapFunction          => 302613
+generatorExpression  => 350251
